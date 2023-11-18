@@ -25,7 +25,7 @@ XO Harmony aims to provide an interactive and enjoyable gaming experience for al
 
 ## Installation
 To play XO Harmony:
-1. [Access the game here](https://scepter2003.github.io/XO-Harmony/) (Replace `link_to_your_game` with your GitHub Pages URL).
+1. [Access the game here](https://scepter2003.github.io/XO-Harmony/)
 
 ## Local Development
 To run XO Harmony locally:
