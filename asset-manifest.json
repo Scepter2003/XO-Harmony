@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/XO-Harmony/static/css/main.d1d0efec.css",
+    "main.js": "/XO-Harmony/static/js/main.2e5b6b88.js",
+    "static/js/787.c5833d39.chunk.js": "/XO-Harmony/static/js/787.c5833d39.chunk.js",
+    "index.html": "/XO-Harmony/index.html",
+    "main.d1d0efec.css.map": "/XO-Harmony/static/css/main.d1d0efec.css.map",
+    "main.2e5b6b88.js.map": "/XO-Harmony/static/js/main.2e5b6b88.js.map",
+    "787.c5833d39.chunk.js.map": "/XO-Harmony/static/js/787.c5833d39.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1d0efec.css",
+    "static/js/main.2e5b6b88.js"
+  ]
+}
