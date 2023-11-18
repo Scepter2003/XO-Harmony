@@ -1,11 +1,7 @@
 # XO Harmony - Play Tic-Tac-Toe!
-
-![XO Harmony Logo](xo-harmony-logo.png)
-
 XO Harmony is a simple yet engaging rendition of the classic Tic-Tac-Toe game built using React.
 
 ## Table of Contents
-
 - [Introduction](#introduction)
 - [Features](#features)
 - [How to Play](#how-to-play)
@@ -15,34 +11,27 @@ XO Harmony is a simple yet engaging rendition of the classic Tic-Tac-Toe game bu
 - [License](#license)
 
 ## Introduction
-
 XO Harmony aims to provide an interactive and enjoyable gaming experience for all ages. This project was created to offer a modern and responsive version of the traditional Tic-Tac-Toe game.
 
 ## Features
-
 - **Interactive Gameplay**: Click to make moves and enjoy responsive gaming.
 - **Win Detection**: Automatically detects wins and draws.
 - **Mobile-Friendly**: Seamlessly playable on any device.
 
 ## How to Play
-
 - **Objective**: Get three of your symbols ('X' or 'O') in a row, column, or diagonal.
 - **Player 1 ('X') starts**: Click on any empty square to place 'X'.
 - **Player 2 ('O') takes the next turn**: Place 'O' on another empty square.
 
 ## Installation
-
 To play XO Harmony:
-
-1. [Access the game here](link_to_your_game) (Replace `link_to_your_game` with your GitHub Pages URL).
+1. [Access the game here](https://scepter2003.github.io/XO-Harmony/) (Replace `link_to_your_game` with your GitHub Pages URL).
 
 ## Local Development
-
 To run XO Harmony locally:
-
 1. Clone this repository:
     ```bash
-    git clone https://github.com/your-username/xo-harmony.git
+    git clone https://github.com/Scepter2003/xo-harmony.git
     cd xo-harmony
     ```
 
